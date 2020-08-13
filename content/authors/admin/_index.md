@@ -51,7 +51,7 @@ user_groups:
 - Visitors
 ---
 
-Yiwei Huang is a master student in University of Alberta.She is working on her final project which is related to power analysis.Also, she has great interest in machine learning and data science.
+Yiwei Huang is a master student in University of Alberta.She is working on her final project which is related to power analysis.Plus, she has great interest in machine learning and data science.
 
 
 
